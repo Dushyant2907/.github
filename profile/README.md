@@ -59,6 +59,14 @@ open a PR — see **[CONTRIBUTING.md](../CONTRIBUTING.md)** for the 5-step guide
 
 *What it represents:* the open, collaborative spirit behind everything at 169pi.
 **Contributed by [@169pi](https://github.com/169Pi)**
+### @your-github-handle — <what you're calling it>
+
+<!-- Your representation goes here: SVG, code, ASCII, diagram, whatever. -->
+
+*What it represents:* one line on the 169pi model, capability, or feature this reflects.
+**Contributed by [@your-github-handle](https://github.com/your-github-handle)**
+**Club:** Your Club Name  <!-- optional — only if you're contributing as part of a club/group; solo contributors: delete this line -->
+*Find me:* optional — site, socials, or however you want to be reachable.
 
 <!-- ENTRIES:END -->
 
